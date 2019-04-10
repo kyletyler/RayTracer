@@ -1,0 +1,27 @@
+﻿  raytracing.cpp
+D:\More Work\Ray Tracer\raytracing\vec3.h(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\vec3.h(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\hitablelist.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\camera.h(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\camera.h(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\material.h(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\material.h(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\material.h(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\material.h(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\More Work\Ray Tracer\raytracing\raytracing.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  raytracing.vcxproj -> D:\More Work\Ray Tracer\Debug\raytracing.exe
