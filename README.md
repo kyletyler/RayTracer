@@ -5,4 +5,4 @@ Features include:
     - vec3 class
     - Simple camera
     - Materials (diffuse, metal, clear) 
-    - Generates and renders a random scene of spheres with different sizes and materials.
+    - Generates and renders a random scene of spheres with different sizes and materials
