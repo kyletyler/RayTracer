@@ -14,6 +14,6 @@ Features include:
 Here are a couple images I produced with the ray tracer:
 
 <p align="left">
-  <img src="scene.png" width="1000" title="scene.png">
-  <img src="scene2.png" width="1000" title="scene2.png">
+  <img src="ray.png" width="1000" title="scene.png">
+  <img src="scene.png" width="1000" title="scene2.png">
 </p>
